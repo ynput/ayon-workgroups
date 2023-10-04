@@ -1,4 +1,4 @@
-# ATW002 Decision Example
+# AYD001 Decision Example
 
 - **Status:** Decided | Proposed | Rejected
 - **Impact:**  Low | Medium | High | Critical
