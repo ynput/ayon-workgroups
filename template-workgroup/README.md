@@ -8,8 +8,7 @@ workgroup.
 
 Decisions are in `decisions` folder as simple markdown files with some header
 and the reasoning behind the decision. Every decisions must have separate markdown
-file, named with the workgroup shortcode like **A**YON **T**emplate **W**orkgroup - **ATW**
-and three digit padded numerical sequence. For more, use the decision file as a reference.
+file, named with tracking code starting with **AYD** (short for AYON Decision) and three digit padded numerical sequence such as **AYD-001**. For more info, use the decision file as a reference.
 
 ### Reports
 
