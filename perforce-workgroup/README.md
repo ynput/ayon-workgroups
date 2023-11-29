@@ -1,8 +1,24 @@
-## Workgroup Template
+## Perforce Workgroup
 
-This is just example template of how decisions and reports should look like.
-It is by no means imperative and can be tweaked to individual needs of every 
-workgroup.
+### About Perforce
+
+Perforce is a centralized version control system (CVCS) that tracks and manages changes to software code and other digital assets. It is a popular choice for large-scale development projects because of its scalability, performance, and security.
+
+Perforce uses a client-server architecture, with a single server that stores all of the versions of all of the files in a project. Clients connect to the server to checkout files, make changes, and submit those changes back to the server. This architecture makes Perforce very efficient, as it only requires the client to download the files that it needs to work on.
+
+Perforce also supports a number of features that are important for large-scale development projects, such as:
+
+Branching and merging: Perforce allows developers to create branches of the codebase, which are independent lines of development. This allows developers to work on new features without affecting the main codebase. Perforce also provides powerful merging tools that make it easy to merge changes from different branches back into the main codebase.
+
+Labeling: Perforce allows developers to label specific versions of the codebase. This is useful for identifying specific releases of a product.
+
+Permissions: Perforce allows administrators to control who can access and modify files. This is important for protecting sensitive data and ensuring that only authorized developers can make changes to the codebase.
+
+Perforce is a powerful and versatile version control system that is well-suited for large-scale development projects. It is a popular choice for a variety of industries, including software development, game development, and semiconductor manufacturing.
+
+### About AYON Integration
+
+Perforce integration is important mainly for game engine related media creation. Apart of it's capabilities, Perforce is widely used solution for Unreal project synchronization.
 
 ### Decisions
 
