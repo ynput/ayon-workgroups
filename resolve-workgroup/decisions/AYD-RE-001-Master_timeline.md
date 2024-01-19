@@ -43,7 +43,7 @@ Using Resolve's native API to generate master timeline from multiple timeline va
 
 ## Outcome
 
-Option 1 was chosen because it is more future proof and it is more likely that OTIO will be production ready in the future.
+Needs to be decided.
 
 ## Action items
 - [Resolve Merge timelines script](https://github.com/jrsndl/resolve-merge-timelines) - Resolve script for merging timelines. Customm script made by Jiri for merging timelines in Resolve. It is not production ready and it is not using OTIO.
