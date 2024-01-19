@@ -49,3 +49,6 @@ Needs to be decided.
 - [Resolve Merge timelines script](https://github.com/jrsndl/resolve-merge-timelines) - Resolve script for merging timelines. Customm script made by Jiri for merging timelines in Resolve. It is not production ready and it is not using OTIO.
 
 - [OpenPype #5904](https://github.com/ynput/OpenPype/pull/5904) - Draft PR as solution proposal from Tony Dorfmeister. This PR had been creating one more layer for wrapping Resolve API with object-oriented abstraction, but since has already api wrapped within OTIO implementation this solution is decided to be only used as Proof of Concept. Idea was inherited from the Jiri's script. The Discussion on the PR is valuable source of feedback from community.
+
+- [We Suck Less on time remaps ](https://www.steakunderwater.com/wesuckless/viewtopic.php?t=6292)
+Tony's Post on We Suck Less forum about time remaps in Resolve. This post is a good source of information about the current state of OTIO in Resolve.
