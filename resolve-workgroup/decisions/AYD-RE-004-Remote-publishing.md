@@ -1,4 +1,4 @@
-# AYD-RE-003 Remote publishing workflow
+# AYD-RE-004 Remote publishing workflow
 
 - **Status:** Proposed
 - **Impact:**  Heigh
