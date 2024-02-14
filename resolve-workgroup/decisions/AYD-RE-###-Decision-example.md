@@ -42,6 +42,14 @@ Description of option two.
 What option (if) was chosen and why.
 
 
+## Goals
+
+  - [ ] List of goals that this decision should achieve
+
 ## Action items
 
-	- [ ] Link to the specific issue created in ayon-workgroups repository
+  - [ ] Link to the specific issue created in ayon-workgroups repository
+
+## References
+
+  - List of references to other documents or discussions

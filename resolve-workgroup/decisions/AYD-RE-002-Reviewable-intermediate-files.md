@@ -32,10 +32,6 @@ This process would mean following steps would need to be (done with current Reso
 5. Deleting the temporary file
 6. using trimmed intermediate files as source for OIIO or FFMPEG transcoding
 
-#### Code inspiration:
-- [bryanrandell/DaVinci-Resolve-Timeline-Utility](https://github.com/bryanrandell/DaVinci-Resolve-Timeline-Utility)
-- [bryanrandell/DaVinci-Resolve-Timeline-Utility > all_utils_davinci](https://github.com/bryanrandell/DaVinci-Resolve-Timeline-Utility/blob/b1991b409d93511cbe6287f9a686b3ed826d2ac2/Workflow%20Integration%20Plugins/python_utils/all_utils_davinci.py#L149)
-
 
 #### Pros
 
@@ -66,5 +62,18 @@ Convert OTIO timeline to video files the same way as audio layers are converted 
 
 Needs to be decided.
 
+## Goals
+
+  - [ ] Rendering via Resolve API with GPU support
+  - [ ] On demand baking color grading look into reference files
+
 
 ## Action items
+
+  To be added.
+
+## References
+
+  #### Code inspiration:
+- [bryanrandell/DaVinci-Resolve-Timeline-Utility](https://github.com/bryanrandell/DaVinci-Resolve-Timeline-Utility)
+- [bryanrandell/DaVinci-Resolve-Timeline-Utility > all_utils_davinci](https://github.com/bryanrandell/DaVinci-Resolve-Timeline-Utility/blob/b1991b409d93511cbe6287f9a686b3ed826d2ac2/Workflow%20Integration%20Plugins/python_utils/all_utils_davinci.py#L149)

@@ -45,7 +45,17 @@ Using Resolve's native API to generate master timeline from multiple timeline va
 
 Needs to be decided.
 
+## Goals
+
+  - [ ] OpenTimelineIO used as abstraction layer for multiple NLEs
+  - [ ] Universally done for all editorial DCCs
+
 ## Action items
+
+To be added.
+
+## References
+
 - [Resolve Merge timelines script](https://github.com/jrsndl/resolve-merge-timelines) - Resolve script for merging timelines. Customm script made by Jiri for merging timelines in Resolve. It is not production ready and it is not using OTIO.
 
 - [OpenPype #5904](https://github.com/ynput/OpenPype/pull/5904) - Draft PR as solution proposal from Tony Dorfmeister. This PR had been creating one more layer for wrapping Resolve API with object-oriented abstraction, but since has already api wrapped within OTIO implementation this solution is decided to be only used as Proof of Concept. Idea was inherited from the Jiri's script. The Discussion on the PR is valuable source of feedback from community.
